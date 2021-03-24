@@ -5,6 +5,7 @@
       email:  anthprestia@gmail.com
       
 -     I am currently still populating this page retroactively with different projects of mine.
+-     A majority of my school projects are kept private by the school git account that I have no control over so I won't be able to publish them to my page.
 
 <!---
 anthprestia/anthprestia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
